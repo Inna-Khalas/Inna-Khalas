@@ -10,10 +10,9 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on **AI voice assistant app**
-- 🌱 I’m currently learning **WebSockets**, **GraphQL**
+- 🌱 I’m currently learning **Nest.js**, **AWS**
 - 💬 Ask me about **React**, **Node.js**, **Next.js**
-- 📫 How to reach me: `inna.khalas@example.com`
-- ⚡ Fun fact: I love solving frontend puzzles and UI challenges!
+- 📫 How to reach me: `innamakarec349@gmail.com`
 
 ---
 
@@ -39,6 +38,6 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/inna-khalas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:inna.khalas@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="www.linkedin.com/in/inna-khalas-804441329" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:innamakarec349@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>

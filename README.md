@@ -38,6 +38,6 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inna-khalas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/inna-khalas-804441329/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:innamakarec349@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
